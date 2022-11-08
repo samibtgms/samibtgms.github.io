@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a Pre-Doctoral economist on a sabbatical currently working on IO / environmental economics related topics such as last mile delivery and ambient air pollution
+* I am a Pre-Doctoral economist on a sabbatical currently working on IO / environmental economics related topics such as last mile delivery and ambient air pollution
 
-I am also into teaching, coding (Python, R, JSon) and web scrapping & crawling
+* I am also into teaching, coding (Python, R, JSon) and web scrapping & crawling
 
 
-Contact : my email is sami.boutaghames@gmail.com
+* Contact : my email is sami.boutaghames@gmail.com
