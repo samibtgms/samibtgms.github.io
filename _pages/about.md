@@ -13,5 +13,6 @@ redirect_from:
 
 * I am also into teaching, coding (Python, R, JSon) and web scrapping & crawling
 
+* I hold an undergraduate degree in Economics (BSc) and a graduate degree in Coporate Finance (MSc) as well as a graduate degree in Philosphy (MSc)
 
 * Contact : my email is sami.boutaghames@gmail.com
