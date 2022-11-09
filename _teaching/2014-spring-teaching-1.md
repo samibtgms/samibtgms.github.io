@@ -10,6 +10,7 @@ location: "Paris, France"
 
 - Tutoring 100+ candidates for the preparation of competitive entrance examinations for France's top business schools
 - 30 students each semester
+- Students admitted to all of top 3 schools (HEC, ESSEC, ESCP)
 
 Heading 1
 ======
