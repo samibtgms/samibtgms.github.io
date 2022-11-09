@@ -8,7 +8,8 @@ date: 2019-01-01 / 2022-01-01
 location: "Paris, France"
 ---
 
-Tutoring 50+ candidates for the preparation of competitive entrance examination for top french business schools
+    - Tutoring 50+ candidates for the preparation of competitive entrance examinations for France's top business schools
+    - 30 students each semester
 
 Heading 1
 ======
