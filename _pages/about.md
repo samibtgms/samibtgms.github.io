@@ -15,4 +15,4 @@ redirect_from:
 
 * I hold an undergraduate degree in Economics (BSc) and a graduate degree in Coporate Finance (MSc) as well as a graduate degree in Philosphy (MSc)
 
-* **Contact** : my email is sami.boutaghames@gmail.com
+* Contact : my email is **sami.boutaghames@gmail.com**
