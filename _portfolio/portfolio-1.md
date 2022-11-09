@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Valuation of time compression diseconomies in the Pharma industry - Master Thesis"
+excerpt: "Revealing and assessing the scale of time compression diseconomies in the US Pharma industry using time series regressions. Discussing its impacts on current firm valuation and M&A process <br/><img src='/images/Master Thesis extract.png'>"
 collection: portfolio
 ---
 
