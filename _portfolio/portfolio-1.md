@@ -1,6 +1,6 @@
 ---
 title: "Valuation of time compression diseconomies in the Pharma industry - Master Thesis"
-excerpt: "Revealing and assessing the scale of time compression diseconomies in the US Pharma industry using time series regressions. Discussing its impacts on current firm valuation and M&A process <br/><img src='/images/Master Thesis extract.png'>"
+excerpt: "Revealing and assessing the scale of time compression diseconomies in the US Pharma industry using time series regressions. Discussing its impacts on current firm valuation and M&A process <br/><img src='/images/MT.png'>"
 collection: portfolio
 ---
 
