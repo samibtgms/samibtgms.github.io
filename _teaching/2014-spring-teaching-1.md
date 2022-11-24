@@ -1,8 +1,8 @@
 ---
-title: "Tutor for undergraduate students"
+title: "Tutor for undergraduate and graduate students"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-2022-Tutoring
+permalink: #/teaching/2019-2022-Tutoring
 venue: "Paris"
 date: 2019-01-01 / 2022-01-01
 location: "Paris, France"
